@@ -7,12 +7,29 @@ The program will output the average of the measurments and the highest and lowes
 
 # Example
 ```
-How many measurments do you want to make? 3
-Input measurment 1: 1
-Input measurment 2: 2
-Input measurment 3: 3
-
-Average: 2.0
-Highest: 3.0
-Lowest: 1.0
+How many measurements do you want to enter? 
+10
+Enter measurement 1: 
+7
+Enter measurement 2: 
+5
+Enter measurement 3: 
+4
+Enter measurement 4: 
+3
+Enter measurement 5: 
+7
+Enter measurement 6: 
+8
+Enter measurement 7: 
+4
+Enter measurement 8: 
+3
+Enter measurement 9: 
+8
+Enter measurement 10: 
+6
+Average: 5.5
+Maximum: 8
+Minimum: 3
 ```
